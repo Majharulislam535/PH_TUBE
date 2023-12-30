@@ -1,0 +1,16 @@
+
+.category_btn{
+    background-color: rgba(37, 37, 37, 0.15);
+    color: rgba(37, 37, 37, 0.7);
+}
+
+.category_btn2{
+    background-color: rgba(37, 37, 37, 0.15);
+    color: rgba(37, 37, 37, 0.7);
+}
+
+
+.active{
+     color: white !important;
+     background-color:#dc3545 !important;
+}
